@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d04ed21d-9e10-427f-be5b-a98aa18eb9bb" name="Changes" comment="Add component AccordionWithReducer">
-      <change afterPath="$PROJECT_DIR$/src/components/UnControlledAccordion/reducer.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UnControlledAccordion/reducer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Accordion/AccordionWithReducer.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/AccordionWithReducer.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Select/Select.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Select/Select.stories.tsx" afterDir="false" />
+    <list default="true" id="d04ed21d-9e10-427f-be5b-a98aa18eb9bb" name="Changes" comment="Add file with React.memo">
+      <change afterPath="$PROJECT_DIR$/src/stories/UseMemo.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +127,7 @@
       <workItem from="1700394377132" duration="1548000" />
       <workItem from="1700396392177" duration="3497000" />
       <workItem from="1700407866656" duration="22108000" />
-      <workItem from="1700989940472" duration="24129000" />
+      <workItem from="1700989940472" duration="29593000" />
     </task>
     <task id="LOCAL-00001" summary="Add new project">
       <created>1701010615940</created>
@@ -146,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701019200643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add file with React.memo">
+      <created>1701366191410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701366191410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +171,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add new project" />
     <MESSAGE value="Add component AccordionWithReducer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add component AccordionWithReducer" />
+    <MESSAGE value="Add file with React.memo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file with React.memo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

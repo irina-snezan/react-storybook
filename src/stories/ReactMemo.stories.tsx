@@ -1,13 +1,14 @@
 import {useState} from 'react';
-import {Meta} from '@storybook/react';
 
+// const meta: Meta<typeof Example> = {
+//     component: Example,
+//     title: 'ReactMemoDemo'
+// };
+// export default meta;
 
-const meta: Meta<typeof Example> = {
-    //component: Example,
+export default {
     title: 'ReactMemoDemo'
-};
-export default meta;
-
+}
 const NewMessagesCounter = (props: { count: number }) => {
     return <div>{props.count}</div>
 }
