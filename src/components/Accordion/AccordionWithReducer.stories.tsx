@@ -28,7 +28,7 @@ const reducer = (state: boolean, action: ActionType) => {
     return state
 }
 
-export const DemoAccordion = () => {
+export const DemoAccordionWithReducer = () => {
     const [collapsed, dispatch] = useReducer(reducer, true);
     return <>
         <Accordion
