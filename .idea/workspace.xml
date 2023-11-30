@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d04ed21d-9e10-427f-be5b-a98aa18eb9bb" name="Changes" comment="Add file with React.memo">
-      <change afterPath="$PROJECT_DIR$/src/stories/UseMemo.stories.tsx" afterDir="false" />
+    <list default="true" id="d04ed21d-9e10-427f-be5b-a98aa18eb9bb" name="Changes" comment="Add file with UseMemo">
+      <change afterPath="$PROJECT_DIR$/src/stories/UseMemo2.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
     </list>
@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Irina/Dev-incubator/react-storybook/src/components/UnControlledAccordion",
+    "last_opened_file_path": "C:/Users/Irina/Dev-incubator/react-storybook/src/stories",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -57,10 +57,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Irina\Dev-incubator\react-storybook\src\stories" />
       <recent name="C:\Users\Irina\Dev-incubator\react-storybook\src\components\UnControlledAccordion" />
       <recent name="C:\Users\Irina\Dev-incubator\react-storybook\src\components\Accordion" />
       <recent name="C:\Users\Irina\Dev-incubator\react-storybook\src\components\Select" />
-      <recent name="C:\Users\Irina\Dev-incubator\react-storybook\src\stories" />
     </key>
   </component>
   <component name="RunManager" selected="Jest.reducer should be true">
@@ -127,7 +127,7 @@
       <workItem from="1700394377132" duration="1548000" />
       <workItem from="1700396392177" duration="3497000" />
       <workItem from="1700407866656" duration="22108000" />
-      <workItem from="1700989940472" duration="29593000" />
+      <workItem from="1700989940472" duration="32010000" />
     </task>
     <task id="LOCAL-00001" summary="Add new project">
       <created>1701010615940</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701366191410</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add file with UseMemo">
+      <created>1701377378707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701377378707</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +179,8 @@
     <MESSAGE value="Add new project" />
     <MESSAGE value="Add component AccordionWithReducer" />
     <MESSAGE value="Add file with React.memo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file with React.memo" />
+    <MESSAGE value="Add file with UseMemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file with UseMemo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
